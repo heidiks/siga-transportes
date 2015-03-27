@@ -35,3 +35,5 @@ echo ""
 echo ""
 echo "Projeto publicado com sucesso. Saindo..."
 exit
+
+# publicar
